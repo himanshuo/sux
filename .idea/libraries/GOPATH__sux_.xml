@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;sux&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../mattn/go-runewidth/.git" />
+      <root url="file://$PROJECT_DIR$/../../jroimartin/gocui/_examples" />
+      <root url="file://$PROJECT_DIR$/../../nsf/termbox-go/_demos" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../jroimartin/gocui/.git" />
+      <root url="file://$PROJECT_DIR$/.git" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../nsf/termbox-go/.git" />
+    </excluded>
+  </library>
+</component>
